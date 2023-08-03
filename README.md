@@ -3,6 +3,14 @@ Jeu de la Vie en Python utilisant les clics de souris. Requiert l'installation p
 
 ![Capture d'écran](https://i.postimg.cc/Wbxm9rx1/jeu-de-la-vie.png)
 
+## Utilisation de jeuDeLaVie.py
+
+Après exécution de jeuDeLaVie.py, il est possible d'interagir avec la fenêtre pygame à l'aide de la souris.
+
+- Clic gauche pour ajouter des cellules
+- Clic droit pour commencer/mettre en pause/arrêter la simulation
+- Clic molette pour appuyer sur un bouton
+
 ## Installation des modules Python
 
 ### Windows
@@ -65,13 +73,3 @@ sudo zypper install python3-pip
 pip install numpy
 pip install pygame
 ```
-
-## Utilisation de jeuDeLaVie.py
-
-Après exécution de jeuDeLaVie.py, il est possible d'interagir avec la fenêtre pygame à l'aide de la souris.
-
-- Clic gauche pour ajouter des cellules
-- Clic droit pour commencer/arrêter la simulation
-- Clic molette pour appuyer sur un bouton
-
-
